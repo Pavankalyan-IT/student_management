@@ -1,6 +1,6 @@
-package Dao;
+package dao;
 import model.Student;
-import Util.DBConnection;
+import util.DBConnection;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

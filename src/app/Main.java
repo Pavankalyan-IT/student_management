@@ -1,6 +1,6 @@
 package app;
 
-import Dao.StudentDAO;
+import dao.StudentDAO;
 import model.Student;
 
 import java.util.Scanner;
